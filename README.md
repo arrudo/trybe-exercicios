@@ -3,5 +3,5 @@
 Turma 26 - Tribo B
 </h2>
 <p>
-Exercicios propostos em cada Bloco
+Exercicios propostos em cada bloco
 </p>
