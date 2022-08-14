@@ -1,5 +1,5 @@
 <h1> Introdução à HTML e CSS</h1> <hr>
-<p><b>01: Introdução - HTML & CSS <hr>
+<p><b>Dia 01: Introdução - HTML & CSS <hr>
 Dia 01: HTML & CSS - Estruturas de página <hr>
 Dia 02: HTML & CSS - Primeiros passos em CSS <hr>
 Dia 03: HTML & CSS - Seletores e posicionamento <hr>
