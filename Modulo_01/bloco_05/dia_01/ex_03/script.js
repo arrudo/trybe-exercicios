@@ -1,0 +1,9 @@
+document.getElementsByTagName("body")[0].style.backgroundColor = "grey";
+document.querySelector("h1").style.backgroundColor = "green";
+document.querySelectorAll(".emergency-tasks")[0].style.backgroundColor = "red";
+document.querySelectorAll(".no-emergency-tasks")[0].style.backgroundColor = "yellow";
+document.querySelectorAll(".emergency-tasks div h3")[0].style.backgroundColor = "purple";
+document.querySelectorAll(".emergency-tasks div h3")[1].style.backgroundColor = "purple";
+document.querySelectorAll(".no-emergency-tasks div h3")[0].style.backgroundColor = "black";
+document.querySelectorAll(".no-emergency-tasks div h3")[1].style.backgroundColor = "black";
+document.getElementById("footer-container").style.backgroundColor = "black";
