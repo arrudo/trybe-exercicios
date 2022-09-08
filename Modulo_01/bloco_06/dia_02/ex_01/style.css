@@ -1,0 +1,23 @@
+body{
+    font-size: 20px;
+    background-color: rgb(117, 114, 114);
+    font-family: sans-serif;
+}
+p{
+    margin-bottom: 5px;
+}
+#motivo{
+    margin-top: 0px;
+    resize: none;
+    width: 305px;
+}
+form{
+    width: 50%;
+    margin: auto;
+    background-color: #dcdcdc;
+}
+.botao{
+    padding: 10px;
+    width: 150px;
+    border-radius: 5px;
+}
