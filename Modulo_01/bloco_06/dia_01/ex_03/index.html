@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <form action="" method="get">
+        <fieldset>
+            <h1>TrybeTrip</h1>
+        <label for="fullName">Nome</label>
+        <input type="text" name="fullName" id="fullNamel" minlength="10" maxlength="40" required>
+        <br>
+        <label for="emaill">Email</label>
+        <input type="email" name="email" id="emaill" minlength="10" maxlength="50" required> 
+        <br>
+        <label for="cidade">
+        <input type="checkbox" name="destino" id="cidade" value="">
+        Cidade
+        </label>
+        <label for="campo">
+        <input type="checkbox" name="destino" id="campo" value="">
+        Campo
+        </label>
+        <label for="praia">
+        <input type="checkbox" name="destino" id="praia" value="">
+        </label>
+        Praia
+        <label for="montanhas">
+        <input type="checkbox" name="destino" id="montanhas" value="">
+        Montanhas
+        </label>
+        <br>
+        <p>Espaço para digitar a resposta:</p>
+        <textarea name="motivos" id="motivo" cols="30" rows="10" maxlength="500" ></textarea>
+        <br>
+        <label for="data">Data:
+        <input type="date" name="data" id="data" required>
+        </label>
+        <br>
+        <label for="novidades">
+            Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?
+        <input type="checkbox" name="novidades" id="novidades">
+        <br>
+        <label for="permissao">
+            Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.
+        <input type="checkbox" name="permissao" id="permissao"> <br>
+    </fieldset>
+        <button type="submit" id="button1" class="botao">Enviar</button>
+        <button type="reset" class="botao">Apagar</button>
+        <script src="script.js"></script>
+        </label>
+    </form>
+</body>
+</html>
